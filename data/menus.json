@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "href": "/employee",
+    "title": "员工管理"
+  },
+  {
+    "id": 2,
+    "href": "/deduction",
+    "title": "抵扣管理"
+  },
+  {
+    "id": 3,
+    "href": "/theme",
+    "title": "个税管理"
+  }
+]

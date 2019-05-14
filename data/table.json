@@ -1,0 +1,84 @@
+{
+  "draw": 1,
+  "success": true,
+  "recordsTotal": 20,
+  "data": [
+    {
+      "id": "1",
+      "user_name": "王小九",
+      "user_phone": "130****0131",
+      "company_name": "科技十一",
+      "time": "2019-05-05",
+      "auth_state": "-1",
+      "rzzt": "0",
+      "rbx": "继续教育-学历",
+      "rbje": "4800"
+    },
+    {
+      "id": "2",
+      "user_name": "王小九",
+      "user_phone": "130****0131",
+      "company_name": "科技十一",
+      "time": "2019-05-05",
+      "auth_state": "0",
+      "rzzt": "1",
+      "rbx": "继续教育-学历",
+      "rbje": "4800"
+    },
+    {
+      "id": "3",
+      "user_name": "王小九",
+      "user_phone": "130****0131",
+      "company_name": "科技十一",
+      "time": "2019-05-05",
+      "auth_state": "1",
+      "rzzt": "2",
+      "rbx": "继续教育-学历",
+      "rbje": "4800"
+    },
+    {
+      "id": "4",
+      "user_name": "王小九",
+      "user_phone": "130****0131",
+      "company_name": "科技十一",
+      "time": "2019-05-05",
+      "auth_state": "-1",
+      "rzzt": "3",
+      "rbx": "继续教育-学历",
+      "rbje": "4800"
+    },
+    {
+      "id": "5",
+      "user_name": "王小九",
+      "user_phone": "130****0131",
+      "company_name": "科技十一",
+      "time": "2019-05-05",
+      "auth_state": "-1",
+      "rzzt": "0",
+      "rbx": "继续教育-学历",
+      "rbje": "4800"
+    },
+    {
+      "id": "6",
+      "user_name": "王小九",
+      "user_phone": "130****0131",
+      "company_name": "科技十一",
+      "time": "2019-05-05",
+      "auth_state": "-1",
+      "rzzt": "0",
+      "rbx": "继续教育-学历",
+      "rbje": "4800"
+    },
+    {
+      "id": "7",
+      "user_name": "王小九",
+      "user_phone": "130****0131",
+      "company_name": "科技十一",
+      "time": "2019-05-05",
+      "auth_state": "-1",
+      "rzzt": "0",
+      "rbx": "继续教育-学历",
+      "rbje": "4800"
+    }
+  ]
+}
